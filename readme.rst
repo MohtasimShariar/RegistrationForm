@@ -1,3 +1,10 @@
+###Registration Form using Codeigniter-PHP
+##Options:
+1. Data insert 
+2. Data fatch in database
+3. Data Update 
+4. Data delete 
+
 ###################
 What is CodeIgniter
 ###################
